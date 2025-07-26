@@ -419,10 +419,7 @@ const Homepage = () => {
                   choose their preferred payment method
                 </p>
                 <ul className="service-features">
-                  <li>Customizable invoice templates</li>
-                  <li>Automatic payment reminders</li>
                   <li>Multi-payment option display</li>
-                  <li>Real-time payment tracking</li>
                 </ul>
               </div>
 
@@ -434,10 +431,9 @@ const Homepage = () => {
                   enhanced checkout options
                 </p>
                 <ul className="service-features">
-                  <li>One-click Shopify integration</li>
+                  <li>Seamless Shopify integration</li>
                   <li>Native checkout experience</li>
                   <li>Automatic order synchronization</li>
-                  <li>Real-time payment status updates</li>
                 </ul>
               </div>
 
@@ -446,13 +442,10 @@ const Homepage = () => {
                 <h3 className="service-title">Website Integration</h3>
                 <p className="service-description">
                   Integrate our payment services directly into your custom
-                  website with our developer-friendly API
+                  website with our user-friendly widgets and templates
                 </p>
                 <ul className="service-features">
-                  <li>RESTful API and SDKs</li>
                   <li>Customizable payment widgets</li>
-                  <li>Webhook notifications</li>
-                  <li>Comprehensive documentation</li>
                 </ul>
               </div>
 
@@ -464,10 +457,8 @@ const Homepage = () => {
                   worry about no-shows
                 </p>
                 <ul className="service-features">
-                  <li>Integrated booking calendar</li>
                   <li>Automated payment collection</li>
                   <li>Deposit and full payment options</li>
-                  <li>Cancellation protection</li>
                 </ul>
               </div>
 
@@ -495,9 +486,7 @@ const Homepage = () => {
                 </p>
                 <ul className="service-features">
                   <li>Flexible billing cycles</li>
-                  <li>Automatic retry logic</li>
                   <li>Customer portal access</li>
-                  <li>Dunning management</li>
                 </ul>
               </div>
             </div>
